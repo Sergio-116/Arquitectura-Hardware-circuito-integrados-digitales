@@ -1,0 +1,5 @@
+Las compuertas lógicas y los circuitos integrados son usualmente usados en la electrónica digital para tomar una o varias señales de entrada (0 o 1) y producir una salida (0 o 1) , según se la regla lógica.
+Se entiende en la electrónica digital que:
+0 = nivel bajo (LOW) 0V.
+1 = nivel alto (high) 5V dependiendo del circuito.
+En los circuitos integrados  de las series 74HC y 74LS los circuitos integrados lógicos usados normalmente, en la implementación de compuertas lógicas digitales, como AND. OR, NOT, NAND, NORY XOR. Donde la diferencia HC y LS es la tecnología de fabricación CMOS y TTL, de tal modo lo que afecta es el consumo, velocidad, voltaje, y compatibilidad. 
